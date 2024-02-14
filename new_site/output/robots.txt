@@ -1,4 +1,0 @@
-Sitemap: https://ryott.gay/sitemapindex.xml
-
-User-Agent: *
-Host: ryott.gay
